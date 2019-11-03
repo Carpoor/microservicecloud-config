@@ -5,5 +5,5 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/springcloud_sell?characterEncoding=utf8&useSSL=false&serverTimezone=UTC
   redis:
-    url: 192.168.234.128
-    host: 6379
+    host: 192.168.234.128
+    port: 6379
